@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: start
+  config-client:
+    enabled: true
